@@ -1,0 +1,14 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "name": "森林",
+            "scene_path": "_Project/Scenes/Level_Forest"
+        },
+        {
+            "id": 2,
+            "name": "沙漠",
+            "scene_path": "_Project/Scenes/Level_Desert"
+        }
+    ]
+}
